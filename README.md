@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huchangjun-sjtu
 - 👀 I’m interested in Control Technology & Machine Learning
-- 🌱 I’m currently learning ROS 
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me : huchangjun1999@qq.com
 
 <!---
